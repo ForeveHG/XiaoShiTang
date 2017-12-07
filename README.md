@@ -1,5 +1,5 @@
 ## XiaoShiTang
-XiaoShiTang是使用React Native+Mobx技术栈来实现的饮食资讯类APP，是我的毕业设计，参考开源项目![]()，对项目进行重构和功能完善和添加，因为时间和设备有限，目前只适配了安卓端，后期将继续进行完善。
+XiaoShiTang是使用React Native+Mobx技术栈来实现的饮食资讯类APP，参考开源项目![https://github.com/ljunb/react-native-iShiWuPai]()，阅读和学习了项目的源码，添加，完善了功能，因为时间和设备有限，目前只适配了安卓端，后期将继续进行完善。
 
 ## 运行截图
 ![主页面](http://oj056g1gy.bkt.clouddn.com/xiaoshitang_1.png)
